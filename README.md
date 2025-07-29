@@ -46,3 +46,6 @@ CustomerID	Unique customer identifier from test dataset
 predicted_probability	Predicted probability of customer churn (0 to 1)
 Evaluation Metric
 Model performance is evaluated using the Area Under the Receiver Operating Characteristic Curve (ROC AUC). This metric assesses the model's discrimination ability to differentiate churners from non-churners. A higher ROC AUC score indicates better model accuracy.
+
+AUC score on Train = 88  and AUC score on Test = 75
+My rank:- above 81 percent of people participated (20K) 
